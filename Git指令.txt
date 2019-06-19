@@ -1,0 +1,10 @@
+1.本地新建一个文件夹GitTest
+2.在文件夹GitTest中，初始化文件夹为Git仓库 git init
+
+3. git add . 添加文件到管理
+
+4.git commit -m "添加注释" 提交到本地仓库
+
+5.git remote add origin https://github.com/yushaona/GitTest.git
+
+6.git push -u origin master
